@@ -18,7 +18,7 @@ h1 {
 }
 
 .help {
-  color: #666;
+  color: #dc143c;
   margin: 10px;
   text-align: center;
 }
@@ -62,7 +62,7 @@ h1 {
 }
 
 .timer {
-  color: #666;
+  color: rgb(14, 238, 115);;
   margin-top: 3px;
   margin-left: 3px;
 }
